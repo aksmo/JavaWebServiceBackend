@@ -75,6 +75,8 @@
                 <configuration>
                     <path>/HelloRESTful</path>
                     <port>8080</port>
+                    <source>1.8</source>
+                    <target>1.8</target>
                 </configuration>
             </plugin>
  
